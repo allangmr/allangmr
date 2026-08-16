@@ -8,9 +8,7 @@ I build learning products end to end: APIs, web apps, and mobile. Most of my cur
 
 **LearnCapsule** — An AI companion for English and German. Users save words, phrases, and audio, then turn that material into flashcards, pronunciation practice, quizzes, and review capsules.
 
-**LMS platform** — A TypeScript monorepo (NestJS, Prisma, PostgreSQL) for courses, identity, background jobs, and admin tools, with contract and parity tests around a legacy migration.
-
-**SCORM platform** — A TanStack Start player for SCORM packages: auth, storage, multimedia, and learner progress.
+**SCORM / LMS platform** — I built a TanStack Start SCORM player (auth, storage, multimedia, learner progress). I am now shipping v2 as a TypeScript monorepo with a separate NestJS backend, web frontend, and mobile app (Prisma, PostgreSQL, background jobs, contract and parity tests around the migration).
 
 The product repos are private. Happy to walk through the code in an interview.
 
